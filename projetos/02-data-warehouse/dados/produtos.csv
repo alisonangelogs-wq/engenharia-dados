@@ -1,0 +1,11 @@
+produto_id,nome_produto,categoria,preco_unitario,custo_unitario
+101,Notebook Dell,Computadores,3500.00,2700.00
+102,Mouse Logitech,Perifericos,120.00,65.00
+103,Teclado Mecanico,Perifericos,250.00,140.00
+104,Monitor Samsung,Monitores,1100.00,820.00
+105,Impressora HP,Impressoras,950.00,700.00
+106,Headset Gamer,Audio,180.00,95.00
+107,Webcam Logitech,Perifericos,220.00,130.00
+108,Notebook Lenovo,Computadores,4200.00,3300.00
+109,SSD Kingston,Armazenamento,450.00,300.00
+110,Memoria RAM Kingston,Armazenamento,280.00,170.00
