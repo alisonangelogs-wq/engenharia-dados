@@ -35,6 +35,6 @@ Desenvolver soluções práticas de Engenharia de Dados, aplicando boas prática
 
 ## Autor
 
-Professor Alison Angelo
+Alison Angelo
 
 GitHub: https://github.com/alisonangelogs-wq

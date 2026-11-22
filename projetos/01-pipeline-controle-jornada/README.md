@@ -183,6 +183,6 @@ A carga foi conferida diretamente no PostgreSQL.
 
 ## 12. Autor
 
-Professor Alison Angelo
+Alison Angelo
 
 GitHub: https://github.com/alisonangelogs-wq
