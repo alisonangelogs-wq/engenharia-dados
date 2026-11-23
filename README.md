@@ -24,7 +24,7 @@ Os projetos são desenvolvidos de forma incremental, com foco em aprendizado pr�
 | Projeto | Descrição | Status |
 |---|---|---|
 | 01 - Pipeline ETL | Controle de jornada de funcionários com Python e PostgreSQL | Concluído |
-| 02 - Data Warehouse | Modelagem dimensional | Planejado |
+| 02 - Data Warehouse | Modelagem dimensional | Concluído |
 | 03 - Apache Airflow | Orquestração de processos | Planejado |
 | 04 - Análise de Dados | Indicadores e consultas SQL | Planejado |
 | 05 - Cloud | Engenharia de dados em nuvem | Planejado |
